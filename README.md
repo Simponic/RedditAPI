@@ -9,13 +9,15 @@ Requirements:
 
 ---
 
-##Usage:
+Usage:
+
 ```python3 main.py```
 
 To run the server
 
 ---
-##API Usage
+API Usage
+
 Do a GET request to where the server is running. 
 
 The syntax is like so:
